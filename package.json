@@ -1,15 +1,23 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "This app lets you take notes and save",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1st",
     "start": "node server.js"
   },
-  "author": "",
+  "author": "Bryan Cifuentes-Escobar",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryance97/Note-Taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bryance97/Note-Taker/issues"
+  },
+  "homepage": "https://github.com/bryance97/Note-Taker#readme"
 }
