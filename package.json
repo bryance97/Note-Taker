@@ -10,7 +10,7 @@
   "author": "Bryan Cifuentes-Escobar",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.2"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/bryance97/Note-Taker/issues"
   },
-  "homepage": "https://github.com/bryance97/Note-Taker#readme"
+  "homepage": "https://github.com/bryance97/Note-Taker#readme",
+  "keywords": []
 }
